@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
        
         <p>
-         HELLO FROM ME AM ABDELAZIZ SEKOUTI AM A SELF TAUGHT WEB DEVELOPER
+         HELLO FROM ME AM ABDELAZIZ SEKOUTI AM A SELF TAUGHT WEB DEVELOPER.
         </p>
          
       </header>
